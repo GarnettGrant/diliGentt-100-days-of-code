@@ -22,7 +22,8 @@ Required:
 	(You will receive a role and be added to a participant list)
 	
 	2. After verifying participation, share you GitHub profile link either in the chat 
-	or keep it in your bio (It will be added to the participant list but just for reference and to motivate peers)
+	or keep it in your bio (It will be added to the participant list but just for reference 
+	and to motivate peers)
 	
 	3. GitHub uploads:
 		If you're working on a single project for the entire 100 days:
@@ -33,7 +34,8 @@ Required:
 		- An .md log containing each date, progress, and link to commit (Updated Daily)
 		
 		If you're working on different concepts throughout the 100 days
-		- An .md log containing the scope/content of the code, each date, progress, and link to commit(Updated daily)
+		- An .md log containing the scope/content of the code, each date, progress, 
+		and link to commit(Updated daily)
 		
 	4. Don't get frustrated, understand we're all learning!
 	
