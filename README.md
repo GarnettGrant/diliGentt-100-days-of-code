@@ -15,12 +15,12 @@ Date Range: April 24th - August 28th
                       133 Days
                       
 
-Required:
+```Required:
 	1. Verify your participation by reacting to the role in the discord Channel #reaction-roles, located under the main hub category,
 	(You will receive a role and be added to a participant list)
 	
 	2. After verifying participation, share you GitHub profile link either in the chat or keep it in your bio (It will be added to the participant list but just for reference and to motivate peers)
-
+	
 	3. GitHub uploads:
 		If you're working on a single project for the entire 100 days:
 		- An Initial .md documentation containing: 
@@ -35,3 +35,5 @@ Required:
 	4. Don't get frustrated, understand we're all learning!
 	
 	5. Have fun :D
+
+```
