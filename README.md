@@ -31,6 +31,7 @@ Date Range: April 24th - August 28th
 	and to motivate peers)
 	
 3. GitHub uploads:
+
 	If you're working on a single project for the entire 100 days:
 	- An Initial .md documentation containing: 
 		§ Project Scope
