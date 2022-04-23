@@ -12,16 +12,6 @@ All the best and let the coding begin!
 
 
 # Required:
-
-## Main Commitment
-### *I will code for at least an hour every day for the next 100 days.*
-
-#### Start Date
-Anytime between these dates
-Date Range: April 24th - August 28th 
-133 Day space!!!!
-
-## Additional Rules
 1. Verify your participation by reacting to the role in the discord Channel #reaction-roles, 
 	located under the main hub category,
 	(You will receive a role and be added to a participant list)
@@ -46,6 +36,15 @@ Date Range: April 24th - August 28th
 4. Don't get frustrated, understand we're all learning!
 	
 5. Have fun :D
+
+## Main Commitment
+### *I will code for at least an hour every day for the next 100 days.*
+
+#### Start Date
+Anytime between these dates
+Date Range: April 24th - August 28th 
+133 Day space!!!!
+
 
 ## Ideas to make this challenge more effective
 1. To increase the chances of success, it's a requirement that you add a link to each of the day posts in the [log](log.md). It can be a link to a commit on GitHub, a link to a blog post
