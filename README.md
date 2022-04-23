@@ -11,13 +11,6 @@ All the best and let the coding begin!
 
 
 
-
-  
-
-```
-	
-
-```
 # Required:
 
 ## Main Commitment
@@ -33,25 +26,25 @@ Date Range: April 24th - August 28th
 	located under the main hub category,
 	(You will receive a role and be added to a participant list)
 	
-	2. After verifying participation, share you GitHub profile link either in the chat 
+2. After verifying participation, share you GitHub profile link either in the chat 
 	or keep it in your bio (It will be added to the participant list but just for reference 
 	and to motivate peers)
 	
-	3. GitHub uploads:
-		If you're working on a single project for the entire 100 days:
-		- An Initial .md documentation containing: 
-			§ Project Scope
-			§ Problem Statement
-			§ Solution Statement
-		- An .md log containing each date, progress, and link to commit (Updated Daily)
+3. GitHub uploads:
+	If you're working on a single project for the entire 100 days:
+	- An Initial .md documentation containing: 
+		§ Project Scope
+		§ Problem Statement
+		§ Solution Statement
+	- An .md log containing each date, progress, and link to commit (Updated Daily)
 		
-		If you're working on different concepts throughout the 100 days
-		- An .md log containing the scope/content of the code, each date, progress, 
-		and link to commit(Updated daily)
+	If you're working on different concepts throughout the 100 days
+	- An .md log containing the scope/content of the code, each date, progress, 
+	  and link to commit(Updated daily)
 		
-	4. Don't get frustrated, understand we're all learning!
+4. Don't get frustrated, understand we're all learning!
 	
-	5. Have fun :D
+5. Have fun :D
 
 
 ## Ideas to make this challenge more effective
