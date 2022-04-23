@@ -10,14 +10,26 @@ Within this challenge, all participants will commit to literally coding for at l
 All the best and let the coding begin!
 
 
-Anytime between these dates
-Date Range: April 24th - August 28th 
-                      133 Days
 
-Required:     
+
+  
 
 ```
-	1. Verify your participation by reacting to the role in the discord Channel #reaction-roles, 
+	
+
+```
+# Required:
+
+## Main Commitment
+### *I will code for at least an hour every day for the next 100 days.*
+
+#### Start Date
+Anytime between these dates
+Date Range: April 24th - August 28th 
+133 Day space!!!!
+
+## Additional Rules
+1. Verify your participation by reacting to the role in the discord Channel #reaction-roles, 
 	located under the main hub category,
 	(You will receive a role and be added to a participant list)
 	
@@ -41,4 +53,14 @@ Required:
 	
 	5. Have fun :D
 
-```
+
+## Ideas to make this challenge more effective
+1. To increase the chances of success, it's a requirement that you add a link to each of the day posts in the [log](log.md). It can be a link to a commit on GitHub, a link to a blog post
+2. If you get upset or stuck, read this article: [Learning to Code: When It Gets Dark](https://www.freecodecamp.org/news/learning-to-code-when-it-gets-dark-e485edfb58fd/)
+3. If you don't know why there is such an emphasis on working on the projects vs doing tutorials or online courses, read this: [How to Get a Developer Job in Less Than a Year](https://www.freecodecamp.org/news/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645/)
+4. Another good bonus of forking this repo -> if you haven't worked with Markdown before, it's a good way to practice.
+
+## Contents
+* [Log - click here to see my progress](log.md)
+* [FAQ](FAQ.md)
+* [Resources](resources.md)
