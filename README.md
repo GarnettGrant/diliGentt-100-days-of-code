@@ -54,5 +54,4 @@ Date Range: April 24th - August 28th
 
 ## Contents
 * [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
+
