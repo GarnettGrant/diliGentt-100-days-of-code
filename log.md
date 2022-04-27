@@ -15,7 +15,7 @@ I got through all of Day 1 as I do have prior knowledge in JavaScript but I have
 
 **Link(s) to work**
 https://github.com/GarnettGrant/30-Days-Of-JavaScript
-
+---------------------------------------------------------
 
 ### Day 2: Tuesday, April 26, 2022
 
@@ -31,6 +31,7 @@ I appreciate going back over lessons again. I say this because things will stand
 **Link(s) to work**
 <a href="https://github.com/GarnettGrant/30-Days-Of-JavaScript/blob/master/02_Day_Data_types/excerciseLvl1.js">30 Days of JavaScript: Excercise Lvl 1</a>
 
+---------------------------------------------------------
 ### Day 3: Wednesday, April 27, 2022
 
 **Today's Progress**: 
