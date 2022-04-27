@@ -30,3 +30,16 @@ I appreciate going back over lessons again. I say this because things will stand
 
 **Link(s) to work**
 <a href="https://github.com/GarnettGrant/30-Days-Of-JavaScript/blob/master/02_Day_Data_types/excerciseLvl1.js">30 Days of JavaScript: Excercise Lvl 1</a>
+
+### Day 3: Wednesday, April 27, 2022
+
+**Today's Progress**: 
+Continued in Day 2 of 30 days of JavaScript challenge
+Completed Excercise Level 2 of Day 2 
+Updated my GitHub ReadME by inspiration from other GitHubers (idk if thats what we're called LOL)
+
+**Thoughts** ...
+Yesterday, I said I would commit to 3 hours of coding... I only got in about 1 due to my tiredness. No excuses, but I am grateful to have gotten the rest I did. I was able to start and complete the second excercise of Day 2 in the 30 days of JavaScript challenge... and I have one more Excercise to go, Level 3. I would love to have finished it today and start Day 3 today which was my original plan but I will get to it eventually... Grateful for these excercises at the end of the lessons that actually help me ponder what I'm doing and choose an approach that is suitable to me.
+
+**Link(s) to work**
+<a href="https://github.com/GarnettGrant/30-Days-Of-JavaScript/blob/master/02_Day_Data_types/excerciseLvl2.js">30 Days of JavaScript: Excercise Lvl 2</a>
