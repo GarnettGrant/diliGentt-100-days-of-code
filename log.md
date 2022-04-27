@@ -32,7 +32,7 @@ I appreciate going back over lessons again. I say this because things will stand
 <a href="https://github.com/GarnettGrant/30-Days-Of-JavaScript/blob/master/02_Day_Data_types/excerciseLvl1.js">30 Days of JavaScript: Excercise Lvl 1</a>
 
 <hr>
-### Day 3: Wednesday, April 27, 2022
+<h3>Day 3: Wednesday, April 27, 2022</h3>
 
 **Today's Progress**: 
 Continued in Day 2 of 30 days of JavaScript challenge
