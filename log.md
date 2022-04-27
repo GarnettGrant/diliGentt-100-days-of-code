@@ -21,12 +21,12 @@ https://github.com/GarnettGrant/30-Days-Of-JavaScript
 
 **Today's Progress**: 
 Continued in Day 2 of 30 days of JavaScript challenge
-
-**Thoughts** ...
 Continued learning about the difference between primitive and non primitive data types
-I appreciate coming back to something again as this time around, things stood out to me that didn't really stand out before. For example, being able to use the + operator to cast a data type was foreign knowledge to me.
 Got a peak at regex again
 Completed the first Level Excercise, basic js stuff, still had me thinking but I completed it, I will continue tomorrow for 3 hours rather than 1 as I don't have work and see how far I get, Lord's willing. 
+
+**Thoughts** ...
+I appreciate going back over lessons again. I say this because things will stand out to me that didn't really stand out before. For example, being able to use the + operator to cast a data type was foreign knowledge to me. I do feel like a noob going back to the basics when I just finished a 14 week program in all of this, but I don't want to advance to learning ReactJS etc, until I get the foundation laid firm... I'm estatic to jump into a project but I again I want my foundation firm... Lord's willing by the end of my summer break, I will have mastered DHTML+ :)
 
 **Link(s) to work**
 <a href="https://github.com/GarnettGrant/30-Days-Of-JavaScript/blob/master/02_Day_Data_types/excerciseLvl1.js">30 Days of JavaScript: Excercise Lvl 1</a>
