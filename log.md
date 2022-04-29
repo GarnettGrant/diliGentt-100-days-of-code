@@ -58,6 +58,7 @@ Long day.. Got home late from work... Got into a short bible study, got into doi
 **UPDATE**...
 I was missing a global definition -_- literally a /g
 Shoutout <a href="https://github.com/PriscillaBakradze">Priscilla</a>!!!
+Still have to complete the second portion -_-.. see y'all tmrw! I'll have tons of time on the weekend to contribute more, Lord's willing
 
 **Link(s) to work**
 <a href="https://github.com/GarnettGrant/30-Days-Of-JavaScript/blob/master/02_Day_Data_types/excerciseLvl3.js">30 Days of JavaScript: Excercise Lvl 3</a>
