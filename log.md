@@ -53,7 +53,7 @@ Continued in Day 2 of 30 days of JavaScript challenge
 Semi Completed Excercise Level 3 of Day 2
 
 **Thoughts** ...
-Long day.. Got home late from work... Got into a short bible study, got into doing the third level excercise and completed all the questions except for one... regex Loll I couldn't figure out how to match the pattern and use the replace method to appropriately reaplce the incorrect text. I'll figure it out.... Debating whether I should spend my session tomorrow figuring it out, or just move on to Day 3 of the program.
+Long day.. Got home late from work... Got into a short bible study, got into doing the third level excercise and completed all the questions except for one... regex Loll I couldn't figure out how to match the pattern and use the replace method to appropriately replace the incorrect text. I'll figure it out.... Debating whether I should spend my session tomorrow figuring it out, or just move on to Day 3 of the program.
 
 **Link(s) to work**
 <a href="https://github.com/GarnettGrant/30-Days-Of-JavaScript/blob/master/02_Day_Data_types/excerciseLvl3.js">30 Days of JavaScript: Excercise Lvl 3</a>
