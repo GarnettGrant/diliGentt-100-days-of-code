@@ -16,4 +16,3 @@ Map
 https://stackoverflow.com/q/29085197/
 	- Storing data in the Map correctly is done through the set(key, value) method
 	- Map() creates a new Map object
-![image](https://user-images.githubusercontent.com/82240898/166087433-c23e0727-cbb8-450b-b0b6-981bb7d0ccde.png)
