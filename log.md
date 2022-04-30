@@ -62,3 +62,12 @@ Still have to complete the second portion -_-.. see y'all tmrw! I'll have tons o
 
 **Link(s) to work**
 <a href="https://github.com/GarnettGrant/30-Days-Of-JavaScript/blob/master/02_Day_Data_types/excerciseLvl3.js">30 Days of JavaScript: Excercise Lvl 3</a>
+
+<hr>
+<h3>Day 5: Friday, April 29, 2022</h3>
+
+**Today's Progress & Thoughts**: 
+Going to start Day 3 Tomorrow evening. :( Researched a bit about Maps to see if I can use it as a solution to the final question in the previous days final excercise, "Find the most frequenet word." I feel like there's an easy answer to it but google & stackoverflow are hinting at mapping the data and then using that to find the most frequent word... I really do feel like there's an easier way given that this is only Day 2 of the course...We'll find out lol.
+
+**Link(s) to work**
+<a href="https://github.com/GarnettGrant/diliGentt-100-days-of-code/blob/main/day5research.md">Day 5 Research Map</a>
