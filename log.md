@@ -95,4 +95,5 @@ For some reason Linear Algebra was within this portion of the challenge and I di
 
 **Link(s) to work**
 <a href="https://github.com/GarnettGrant/30-Days-Of-JavaScript/blob/master/03_Day_Booleans_operators_date/excerciseLvl2.js">30 Days of JavaScript: Day 3 Excercise Lvl 2</a>
+<br>
 <a href="https://github.com/GarnettGrant/30-Days-Of-JavaScript/blob/master/03_Day_Booleans_operators_date/excerciseLvl3.js">30 Days of JavaScript: Day 3 Excercise Lvl 3</a>
