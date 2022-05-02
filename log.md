@@ -94,6 +94,7 @@ Completed Day 3 of the 30 day JavaScript challenge (Booleans, Operators, Date Ob
 For some reason Linear Algebra was within this portion of the challenge and I did not appreciate that at all!!!... After using google and youtube I vaguely and regretfully remember how to work with linear algebra so yeah... Anyways, I completed the Level 2 and 3 excercises of Day 3 and will be moving onto Day 4 tommorrow. I hope I will be able to finish it all and stay on track. Learned a lot about the Date Object as well as window features such as prompt, which I did not previously know about. Seeing that these basic questions are challenging me, I believe I took the right step in refreshing myself. 
 
 **Link(s) to work**
+<br>
 <a href="https://github.com/GarnettGrant/30-Days-Of-JavaScript/blob/master/03_Day_Booleans_operators_date/excerciseLvl2.js">30 Days of JavaScript: Day 3 Excercise Lvl 2</a>
 <br>
 <a href="https://github.com/GarnettGrant/30-Days-Of-JavaScript/blob/master/03_Day_Booleans_operators_date/excerciseLvl3.js">30 Days of JavaScript: Day 3 Excercise Lvl 3</a>
