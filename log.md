@@ -110,5 +110,8 @@ Started Day 5 of the 30 day JavaScript challenge (Arrays)
 - Refreshed on the basics of the if/else, switch, and the ternary operators. I completed most of the excercises. I didn't do some due to redundancy so I will be moving on to Day 5 late tonight or tomorrow Lord's willing. 
 - Begun Day 5 which has to do with arrays. I like it so far!
 
-**Link(s) to work** <a href="https://github.com/GarnettGrant/30-Days-Of-JavaScript/tree/master/04_Day_Conditionals">30 Days of JavaScript: Day 4 Excercises</a>
-
+**Link(s) to work** 
+<br>
+<a href="https://github.com/GarnettGrant/30-Days-Of-JavaScript/tree/master/04_Day_Conditionals">30 Days of JavaScript: Day 4 Excercises</a>
+<br>
+<a href="https://github.com/GarnettGrant/30-Days-Of-JavaScript/tree/master/05_Day_Arrays">30 Days of JavaScript: Day 5 Excercises</a>
