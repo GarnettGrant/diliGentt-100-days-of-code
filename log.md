@@ -104,9 +104,11 @@ For some reason Linear Algebra was within this portion of the challenge and I di
 
 **Today's Progress**: 
 Completed Day 4 of the 30 day JavaScript challenge (Conditionals)
+Started Day 5 of the 30 day JavaScript challenge (Arrays)
 
 **Thoughts**:
-Refreshed on the basics of the if/else, switch, and the ternary operators. I completed most of the excercises. I didn't do some due to redundancy so I will be moving on to Day 5 late tonight or tomorrow Lord's willing. 
+- Refreshed on the basics of the if/else, switch, and the ternary operators. I completed most of the excercises. I didn't do some due to redundancy so I will be moving on to Day 5 late tonight or tomorrow Lord's willing. 
+- Begun Day 5 which has to do with arrays. I like it so far!
 
 **Link(s) to work** <a href="https://github.com/GarnettGrant/30-Days-Of-JavaScript/tree/master/04_Day_Conditionals">30 Days of JavaScript: Day 4 Excercises</a>
 
