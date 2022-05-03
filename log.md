@@ -98,3 +98,17 @@ For some reason Linear Algebra was within this portion of the challenge and I di
 <a href="https://github.com/GarnettGrant/30-Days-Of-JavaScript/blob/master/03_Day_Booleans_operators_date/excerciseLvl2.js">30 Days of JavaScript: Day 3 Excercise Lvl 2</a>
 <br>
 <a href="https://github.com/GarnettGrant/30-Days-Of-JavaScript/blob/master/03_Day_Booleans_operators_date/excerciseLvl3.js">30 Days of JavaScript: Day 3 Excercise Lvl 3</a>
+
+<hr>
+<h3>Day 8: Monday, May 2, 2022</h3>
+
+**Today's Progress**: 
+Completed Day 4 of the 30 day JavaScript challenge (Conditionals)
+
+**Thoughts**:
+Refreshed on the basics of the if/else, switch, and the ternary operators. I completed most of the excercises. I didn't do some due to redundancy so I will be moving on to Day 5 late tonight or tomorrow Lord's willing. 
+
+**Link(s) to work**
+<br>
+<a href="https://github.com/GarnettGrant/30-Days-Of-JavaScript/tree/master/04_Day_Conditionals">30 Days of JavaScript: Day 4 Excercises</a>
+
