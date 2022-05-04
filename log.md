@@ -115,3 +115,13 @@ Started Day 5 of the 30 day JavaScript challenge (Arrays)
 <a href="https://github.com/GarnettGrant/30-Days-Of-JavaScript/tree/master/04_Day_Conditionals">30 Days of JavaScript: Day 4 Excercises</a>
 <br>
 <a href="https://github.com/GarnettGrant/30-Days-Of-JavaScript/tree/master/05_Day_Arrays">30 Days of JavaScript: Day 5 Excercises</a>
+
+
+<hr>
+<h3>Day 9: Tuesday, May 3, 2022</h3>
+
+**Today's Progress**: 
+...
+
+**Thoughts**:
+- Got nothing really done, I started the second excercise but got no where near finishing it.
