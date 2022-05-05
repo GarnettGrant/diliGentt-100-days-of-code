@@ -133,5 +133,6 @@ Started Day 5 of the 30 day JavaScript challenge (Arrays)
 Complete Excercise 1 & partially 2 of Day 5 the 30 day JavaScript challenge (Arrays)
 
 **Thoughts**:
-- Updating my log late... I was able to complete Exercise 1 and most of Excercise 2. Not being able to debug within Visual Studio Code but within the live server puzzled me but I'm glad that my outputs work on the client side browser. For example, the first question in excercise 2 wants me to aceess arrays from a seperate file within the main file. That can be done within a live server but Visual Studio code won't recognize it because it's in a different source. I attempted to find ways to fix this and did not but I trust I will in the near future. Task failed/completed successfully!
+Updating my log late... I was able to complete Exercise 1 and most of Excercise 2. Not being able to debug within Visual Studio Code but within the live server puzzled me but I'm glad that my outputs work on the client side browser. For example, the first question in excercise 2 wants me to aceess arrays from a seperate file within the main file. That can be done within a live server but Visual Studio code won't recognize it because it's in a different source. I attempted to find ways to fix this and did not but I trust I will in the near future. Task failed/completed successfully!
+
 **Link(s) to work** <a href="https://github.com/GarnettGrant/30-Days-Of-JavaScript/tree/master/05_Day_Arrays">30 Days of JavaScript: Day 5 Excercises</a>
