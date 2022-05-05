@@ -124,7 +124,7 @@ Started Day 5 of the 30 day JavaScript challenge (Arrays)
 ...
 
 **Thoughts**:
-- Got nothing really done, I started the second excercise but got no where near finishing it.
+Got nothing really done, I started the second excercise but got no where near finishing it.
 
 <hr>
 <h3>Day 10: Wednesday, May 4, 2022</h3>
