@@ -146,4 +146,5 @@ Started Excercise 3
 **Thoughts**:
 I'm glad I'm at least getting an hour of code in, I do aspire to do more. 
 Learned to use google to find solutions that work and I can appreciate not being able to solve problems and then finding a solution as thats what programming is about! Solving problems!
+
 **Link(s) to work** <a href="https://github.com/GarnettGrant/30-Days-Of-JavaScript/tree/master/05_Day_Arrays">30 Days of JavaScript: Day 5 Excercises</a>
