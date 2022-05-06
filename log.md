@@ -141,7 +141,7 @@ Updating my log late... I was able to complete Exercise 1 and most of Excercise 
 <h3>Day 11: Thursday, May 5, 2022</h3>
 
 **Today's Progress**: 
-Started Excercise 3
+Started Excercise 3 Day 5 the 30 day JavaScript challenge (Arrays)
 
 **Thoughts**:
 I'm glad I'm at least getting an hour of code in, I do aspire to do more. 
