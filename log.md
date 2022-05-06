@@ -136,3 +136,14 @@ Complete Excercise 1 & partially 2 of Day 5 the 30 day JavaScript challenge (Arr
 Updating my log late... I was able to complete Exercise 1 and most of Excercise 2. Not being able to debug within Visual Studio Code but within the live server puzzled me but I'm glad that my outputs work on the client side browser. For example, the first question in excercise 2 wants me to aceess arrays from a seperate file within the main file. That can be done within a live server but Visual Studio code won't recognize it because it's in a different source. I attempted to find ways to fix this and did not but I trust I will in the near future. Task failed/completed successfully!
 
 **Link(s) to work** <a href="https://github.com/GarnettGrant/30-Days-Of-JavaScript/tree/master/05_Day_Arrays">30 Days of JavaScript: Day 5 Excercises</a>
+
+<hr>
+<h3>Day 11: Thursday, May 5, 2022</h3>
+
+**Today's Progress**: 
+Started Excercise 3
+
+**Thoughts**:
+I'm glad I'm at least getting an hour of code in, I do aspire to do more. 
+Learned to use google to find solutions that work and I can appreciate not being able to solve problems and then finding a solution as thats what programming is about! Solving problems!
+**Link(s) to work** <a href="https://github.com/GarnettGrant/30-Days-Of-JavaScript/tree/master/05_Day_Arrays">30 Days of JavaScript: Day 5 Excercises</a>
