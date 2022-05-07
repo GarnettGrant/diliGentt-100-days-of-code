@@ -148,3 +148,15 @@ I'm glad I'm at least getting an hour of code in, I do aspire to do more.
 Learned to use google to find solutions that work and I can appreciate not being able to solve problems and then finding a solution as thats what programming is about! Solving problems!
 
 **Link(s) to work** <a href="https://github.com/GarnettGrant/30-Days-Of-JavaScript/tree/master/05_Day_Arrays">30 Days of JavaScript: Day 5 Excercises</a>
+
+<h3>Day 12: Friday, May 6, 2022</h3>
+Got home from work, took a nap, woke up, and it was Saturday LOL.. Just did a bible study prayed and went straight back to bed... next time!
+
+<h3>Day 13: Saturday, May 7, 2022</h3>
+
+**Today's Progress**: 
+
+
+**Thoughts**:
+
+**Link(s) to work** <a href="">Incoming</a>
