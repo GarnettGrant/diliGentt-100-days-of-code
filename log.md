@@ -152,11 +152,33 @@ Learned to use google to find solutions that work and I can appreciate not being
 <h3>Day 12: Friday, May 6, 2022</h3>
 Got home from work, took a nap, woke up, and it was Saturday LOL.. Just did a bible study prayed and went straight back to bed... next time!
 
+<hr>
 <h3>Day 13: Saturday, May 7, 2022</h3>
 
 **Today's Progress**: 
+No progress
+
+**Thoughts**:
 
 
+<hr>
+<h3>Day 13: Sunday, May 8, 2022</h3>
+
+**Today's Progress**: 
+No progress, 
+
+**Thoughts**:
+Got to witness my friend, and brother in Christ commit Himself to the Lord through the public declaration of Baptism! HalleluYah!
+https://www.youtube.com/watch?v=-Q-8x_U6ILg&t=2s
+
+**Link(s) to work**
+
+<hr>
+<h3>Day 14: Sunday, May 9, 2022</h3>
+
+**Today's Progress**: 
+Started Day 6 of the 30 days of JavaScript challenge
+Completed excercise 1
 **Thoughts**:
 
 **Link(s) to work** <a href="">Incoming</a>
