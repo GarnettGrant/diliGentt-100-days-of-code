@@ -181,4 +181,4 @@ Started Day 6 of the 30 days of JavaScript challenge
 Completed excercise 1
 **Thoughts**:
 
-**Link(s) to work** <a href="">Incoming</a>
+**Link(s) to work** <a href="https://github.com/GarnettGrant/30-Days-Of-JavaScript/tree/master/06_Day_Loops">30 Days of JavaScript: Day 6 Excercises</a>
