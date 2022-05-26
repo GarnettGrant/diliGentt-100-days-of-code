@@ -188,6 +188,7 @@ Started Day 6 of the 30 days of JavaScript challenge
 **Today's Progress**: 
 Started Day 6 of the 30 days of JavaScript challenge
 Completed excercise Level 1
+
 **Thoughts**:
 After 17 days straight of not coding, on my day off from work I've completed the Level 1 excercise. I am sad that I have not been able to dedicate my time to challenging myself as I aspire to but I'm grateful nevertheless to get something done. Not sure if I'm in the right to not be pushing myself past my limits of exhaustion but I do feel convicted not to so I don't do it. Looking forward to at least completing this entire course before I start school again in September 
 
