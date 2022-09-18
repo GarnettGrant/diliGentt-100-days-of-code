@@ -17,10 +17,10 @@
 
 <hr>
 <h4>Priscilla</h4>
-<a href="https://github.com/DragoScript/100-DOC-Journal">Priscilla AKA Pris</a>
+<a href="https://github.com/PriscillaBakradze/100-Days-of-Code">Priscilla AKA Pris</a>
 
 <h4>Rebecca</h4>
-<a href="https://github.com/DragoScript/100-DOC-Journal">Rebecca AKA Becca</a>
+<a href="https://github.com/rkhidesh/100-Days-Of-Code">Rebecca AKA Becca</a>
 
 <h4>SUDO</h4>
 <a href="https://github.com/DragoScript/100-DOC-Journal">George AKA Sudo</a>
