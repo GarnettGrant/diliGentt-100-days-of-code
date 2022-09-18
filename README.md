@@ -6,7 +6,7 @@
   <br>
   While I myself did not get to complete the challenge due to working all throughout the summer in a different field, I am more than proud and motivated by my peers who
   have dedicated their time, resources, and skills to completing the challenge to the best of their ability, logging their efforts, and perservering. I am 
-  grateful to have classmates, and new friends such as George, Priscilla, and Rebecca who have put their heart into commiting towards their future! I look 
+  grateful to have classmates, and new friends such as **George**, **Priscilla**, and **Rebecca** who have put their heart into commiting towards their future! I look 
   forward to seeing all the successful endevaours you will all contribute to and I am a proud friend! 
   
 </p>
